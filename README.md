@@ -1,4 +1,4 @@
-# 👋 Hi,I'm Muhammad Usman!
+#   👋 Hi,I'm Muhammad Usman!   
  👀 I’m interested in Coding...<br>- 🌱 I’m currently learning **Botstrap**<br>- 👨‍💻 All of my projects are available at [https://usman-52.github.io/My-Porfolio-Website-/](https://usman-52.github.io/My-Porfolio-Website-/)<br>- 💞️ I’m looking to collaborate on Web Development realted projects..<br>- 📫 How to reach me => Email: usman914.764@gmail.com.<br>- 😄 Pronouns: He ...<br>- ⚡ Fun fact **I'm very Passionate About learning new Technologies**
 
 
@@ -22,6 +22,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Usman-52&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-52&label=Profile%20views&color=0e75b6&style=flat" alt="usman-52" /> </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
